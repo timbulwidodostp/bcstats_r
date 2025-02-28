@@ -3,6 +3,8 @@ Compare survey and back check data, producing a data set of comparisons Use bcst
 
 Analyze back check (field audit) data and compare it to the original survey data Use bcstats (bcstatsR) With (In) R Software
 
+https://www.youtube.com/watch?v=bSlhaR2lmX0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
